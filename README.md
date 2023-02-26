@@ -12,7 +12,7 @@ To access the Spotify API, I used RapidAPI, which provided a simple way to acces
 Lastly, my project involved some integration with the decentralized web. This might involve using blockchain technology to store user data, or using decentralized protocols to distribute music content. The exact details of how I integrated web three into my project will depend on my specific goals and requirements.
 
 Overall, my project is an impressive demonstration of modern web development techniques and technologies, and shows how powerful tools like React, Tailwind CSS, Redux, and RapidAPI can be used to build complex web applications that interact with the decentralized web. I hope that my project will inspire and educate other developers who are interested in building similar applications.
-##👉Summary👈
+## 👉Summary👈
 ⭐The project is a web application that replicates the functionality of the Spotify music streaming service with a web three twist, designed to interact with the decentralized web.
 
 ⭐The project was built using modern web development tools and technologies such as React, Tailwind CSS, and Redux to create reusable UI components and manage the complex state of the application.
